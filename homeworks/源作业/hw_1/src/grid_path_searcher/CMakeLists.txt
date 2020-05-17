@@ -4,6 +4,7 @@ project(grid_path_searcher)
 find_package(catkin REQUIRED COMPONENTS 
     roscpp 
     std_msgs
+    nav_msgs
     visualization_msgs 
 )
 
