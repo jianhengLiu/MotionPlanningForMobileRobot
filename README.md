@@ -7,3 +7,5 @@
 因为每次作业的节点都是node_demo
 
 所以在此提醒别删错了！！！
+
+记得把`grid_path_searcher`里的`.git`文件夹删掉！！！不然上传不了github！
