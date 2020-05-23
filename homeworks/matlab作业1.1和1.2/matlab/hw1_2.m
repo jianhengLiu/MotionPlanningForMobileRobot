@@ -37,10 +37,11 @@ for i=0:n_seg-1
     %#####################################################
     % STEP 4: get the coefficients of i-th segment of both x-axis
     % and y-axis
-    Pxi = poly_coef_x(i*n_poly_perseg+1:(i+1)*n_poly_perseg,1);
-    Pxi = flipud(Pxi);
-    Pyi = poly_coef_y(i*n_poly_perseg+1:(i+1)*n_poly_perseg,1);
-    Pyi = flipud(Pyi);
+    Pxi = [];
+    Pyi = [];
+    
+    Pxi(1:8) = poly_coef_x(8*(i+1):-1:8*i+1,1);
+    Pyi(1:8) = poly_coef_y(8*(i+1):-1:8*i+1,1); 
     
     for t=0:tstep:ts(i+1)
         X_n(k)  = polyval(Pxi,t);
@@ -54,43 +55,38 @@ hold on
 scatter(path(1:size(path,1),1),path(1:size(path,1),2));
 
 function poly_coef = MinimumSnapCloseformSolver(waypoints, ts, n_seg, n_order)
-start_cond = [waypoints(1), 0, 0, 0];
-end_cond =   [waypoints(end), 0, 0, 0];
-%#####################################################
-% you have already finished this function in hw1
-Q = getQ(n_seg, n_order, ts);
-%#####################################################
-% STEP 1: compute M
-M = getM(n_seg, n_order, ts);
-%#####################################################
-% STEP 2: compute Ct
-Ct = getCt(n_seg, n_order);
-C = Ct';
-R = C * inv(M)' * Q * inv(M) * Ct;
-R_cell = mat2cell(R, [n_seg+7 3*(n_seg-1)], [n_seg+7 3*(n_seg-1)]);
-R_pp = R_cell{2, 2};
-R_fp = R_cell{1, 2};
-%#####################################################
-% STEP 3: compute dF
-dF = [];
-%
-%
-%
-%
-%状态变量数
-d_order = 4;
-for i=1:d_order
-    dF(i,1) = start_cond(i);
-end
-
-for i=1:n_seg-1
-    dF(d_order+i,1) = waypoints(i+1,1);
-end
-
-for i=1:d_order
-    dF(d_order+n_seg-1+i,1) = end_cond(i);
-end
-
-dP = -inv(R_pp) * R_fp' * dF;
-poly_coef = inv(M) * Ct * [dF;dP];
+    start_cond = [waypoints(1), 0, 0, 0];
+    end_cond =   [waypoints(end), 0, 0, 0];
+    %#####################################################
+    % you have already finished this function in hw1
+    Q = getQ(n_seg, n_order, ts);
+    %#####################################################
+    % STEP 1: compute M
+    M = getM(n_seg, n_order, ts);
+    %#####################################################
+    % STEP 2: compute Ct
+    Ct = getCt(n_seg, n_order);
+    C = Ct';
+    R = C * inv(M)' * Q * inv(M) * Ct;
+    R_cell = mat2cell(R, [n_seg+7 3*(n_seg-1)], [n_seg+7 3*(n_seg-1)]);
+    R_pp = R_cell{2, 2};
+    R_fp = R_cell{1, 2};
+    %#####################################################
+    % STEP 3: compute dF
+    dF = [];
+    %
+    %
+    %
+    %
+    for i=1:4
+        dF(i,1) = start_cond(i);
+    end
+    for i=1:n_seg-1
+        dF(4+i,1) = waypoints(1+i);
+    end
+    for i= 1 : 4
+        dF(4+n_seg-1+i,1) = end_cond(i);
+    end
+    dP = -inv(R_pp) * R_fp' * dF;
+    poly_coef = inv(M) * Ct * [dF;dP];
 end
