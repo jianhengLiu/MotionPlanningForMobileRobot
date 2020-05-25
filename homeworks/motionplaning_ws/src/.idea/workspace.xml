@@ -4,78 +4,111 @@
     <generated>
       <config projectName="Project" targetName="visualization_msgs_generate_messages_nodejs" />
       <config projectName="Project" targetName="nav_msgs_generate_messages_py" />
+      <config projectName="Project" targetName="quadrotor_msgs_generate_messages_nodejs" />
       <config projectName="Project" targetName="roscpp_generate_messages_py" />
-      <config projectName="Project" targetName="tf_generate_messages_eus" />
+      <config projectName="Project" targetName="quadrotor_msgs_gencpp" />
+      <config projectName="Project" targetName="_quadrotor_msgs_generate_messages_check_deps_Corrections" />
+      <config projectName="Project" targetName="_quadrotor_msgs_generate_messages_check_deps_StatusData" />
       <config projectName="Project" targetName="tf2_msgs_generate_messages_cpp" />
-      <config projectName="Project" targetName="nav_msgs_generate_messages_lisp" />
-      <config projectName="Project" targetName="sensor_msgs_generate_messages_nodejs" />
-      <config projectName="Project" targetName="std_msgs_generate_messages_cpp" />
+      <config projectName="Project" targetName="_quadrotor_msgs_generate_messages_check_deps_PositionCommand" />
       <config projectName="Project" targetName="actionlib_generate_messages_nodejs" />
+      <config projectName="Project" targetName="_quadrotor_msgs_generate_messages_check_deps_Serial" />
       <config projectName="Project" targetName="clean_test_results" />
       <config projectName="Project" targetName="nav_msgs_generate_messages_cpp" />
       <config projectName="Project" targetName="visualization_msgs_generate_messages_cpp" />
-      <config projectName="Project" targetName="gtest" />
-      <config projectName="Project" targetName="waypoint_generator" />
-      <config projectName="Project" targetName="std_msgs_generate_messages_nodejs" />
       <config projectName="Project" targetName="geometry_msgs_generate_messages_cpp" />
+      <config projectName="Project" targetName="quadrotor_msgs_genpy" />
+      <config projectName="Project" targetName="_quadrotor_msgs_generate_messages_check_deps_SwarmInfo" />
+      <config projectName="Project" targetName="quadrotor_msgs_generate_messages" />
       <config projectName="Project" targetName="map_msgs_generate_messages_lisp" />
       <config projectName="Project" targetName="rosgraph_msgs_generate_messages_cpp" />
-      <config projectName="Project" targetName="rosgraph_msgs_generate_messages_lisp" />
-      <config projectName="Project" targetName="sensor_msgs_generate_messages_py" />
+      <config projectName="Project" targetName="_quadrotor_msgs_generate_messages_check_deps_SO3Command" />
+      <config projectName="Project" targetName="_quadrotor_msgs_generate_messages_check_deps_OptimalTimeAllocator" />
       <config projectName="Project" targetName="geometry_msgs_generate_messages_lisp" />
       <config projectName="Project" targetName="rosgraph_msgs_generate_messages_py" />
-      <config projectName="Project" targetName="std_msgs_generate_messages_py" />
-      <config projectName="Project" targetName="tf_generate_messages_cpp" />
+      <config projectName="Project" targetName="quadrotor_msgs_geneus" />
       <config projectName="Project" targetName="map_msgs_generate_messages_eus" />
-      <config projectName="Project" targetName="gmock" />
       <config projectName="Project" targetName="actionlib_msgs_generate_messages_eus" />
-      <config projectName="Project" targetName="roscpp_generate_messages_eus" />
       <config projectName="Project" targetName="tf2_msgs_generate_messages_eus" />
-      <config projectName="Project" targetName="doxygen" />
-      <config projectName="Project" targetName="tests" />
-      <config projectName="Project" targetName="std_msgs_generate_messages_eus" />
-      <config projectName="Project" targetName="nav_msgs_generate_messages_eus" />
+      <config projectName="Project" targetName="encode_msgs" />
       <config projectName="Project" targetName="actionlib_msgs_generate_messages_lisp" />
+      <config projectName="Project" targetName="nav_msgs_generate_messages_eus" />
+      <config projectName="Project" targetName="_quadrotor_msgs_generate_messages_check_deps_Gains" />
       <config projectName="Project" targetName="_catkin_empty_exported_target" />
       <config projectName="Project" targetName="rviz_plugins" />
       <config projectName="Project" targetName="tf2_msgs_generate_messages_nodejs" />
       <config projectName="Project" targetName="actionlib_generate_messages_py" />
       <config projectName="Project" targetName="rosgraph_msgs_generate_messages_nodejs" />
+      <config projectName="Project" targetName="quadrotor_msgs_gennodejs" />
       <config projectName="Project" targetName="actionlib_generate_messages_eus" />
-      <config projectName="Project" targetName="rosgraph_msgs_generate_messages_eus" />
       <config projectName="Project" targetName="roscpp_generate_messages_nodejs" />
-      <config projectName="Project" targetName="demo_node" />
+      <config projectName="Project" targetName="rosgraph_msgs_generate_messages_eus" />
       <config projectName="Project" targetName="download_extra_data" />
-      <config projectName="Project" targetName="random_complex" />
-      <config projectName="Project" targetName="run_tests" />
+      <config projectName="Project" targetName="_quadrotor_msgs_generate_messages_check_deps_PolynomialTrajectory" />
+      <config projectName="Project" targetName="quadrotor_msgs_genlisp" />
       <config projectName="Project" targetName="map_msgs_generate_messages_cpp" />
+      <config projectName="Project" targetName="_quadrotor_msgs_generate_messages_check_deps_TRPYCommand" />
       <config projectName="Project" targetName="geometry_msgs_generate_messages_py" />
       <config projectName="Project" targetName="geometry_msgs_generate_messages_nodejs" />
-      <config projectName="Project" targetName="roscpp_generate_messages_cpp" />
-      <config projectName="Project" targetName="actionlib_generate_messages_lisp" />
       <config projectName="Project" targetName="actionlib_msgs_generate_messages_cpp" />
-      <config projectName="Project" targetName="actionlib_msgs_generate_messages_nodejs" />
+      <config projectName="Project" targetName="actionlib_generate_messages_lisp" />
+      <config projectName="Project" targetName="_quadrotor_msgs_generate_messages_check_deps_PPROutputData" />
       <config projectName="Project" targetName="actionlib_msgs_generate_messages_py" />
       <config projectName="Project" targetName="sensor_msgs_generate_messages_eus" />
-      <config projectName="Project" targetName="tf2_msgs_generate_messages_lisp" />
       <config projectName="Project" targetName="std_msgs_generate_messages_lisp" />
-      <config projectName="Project" targetName="sensor_msgs_generate_messages_lisp" />
-      <config projectName="Project" targetName="map_msgs_generate_messages_py" />
       <config projectName="Project" targetName="actionlib_generate_messages_cpp" />
       <config projectName="Project" targetName="tf2_msgs_generate_messages_py" />
       <config projectName="Project" targetName="gmock_main" />
-      <config projectName="Project" targetName="map_msgs_generate_messages_nodejs" />
       <config projectName="Project" targetName="gtest_main" />
-      <config projectName="Project" targetName="tf_generate_messages_lisp" />
-      <config projectName="Project" targetName="nav_msgs_generate_messages_nodejs" />
       <config projectName="Project" targetName="sensor_msgs_generate_messages_cpp" />
+      <config projectName="Project" targetName="visualization_msgs_generate_messages_py" />
+      <config projectName="Project" targetName="tf_generate_messages_nodejs" />
+      <config projectName="Project" targetName="_quadrotor_msgs_generate_messages_check_deps_ReplanCheck" />
+      <config projectName="Project" targetName="tf_generate_messages_eus" />
+      <config projectName="Project" targetName="nav_msgs_generate_messages_lisp" />
+      <config projectName="Project" targetName="sensor_msgs_generate_messages_nodejs" />
+      <config projectName="Project" targetName="std_msgs_generate_messages_cpp" />
+      <config projectName="Project" targetName="quadrotor_msgs_generate_messages_py" />
+      <config projectName="Project" targetName="gtest" />
+      <config projectName="Project" targetName="waypoint_generator" />
+      <config projectName="Project" targetName="decode_msgs" />
+      <config projectName="Project" targetName="std_msgs_generate_messages_nodejs" />
+      <config projectName="Project" targetName="_quadrotor_msgs_generate_messages_check_deps_TrajectoryMatrix" />
+      <config projectName="Project" targetName="quadrotor_msgs_generate_messages_eus" />
+      <config projectName="Project" targetName="_quadrotor_msgs_generate_messages_check_deps_AuxCommand" />
+      <config projectName="Project" targetName="_quadrotor_msgs_generate_messages_check_deps_SpatialTemporalTrajectory" />
+      <config projectName="Project" targetName="rosgraph_msgs_generate_messages_lisp" />
+      <config projectName="Project" targetName="sensor_msgs_generate_messages_py" />
+      <config projectName="Project" targetName="trajectory_generator_node" />
+      <config projectName="Project" targetName="std_msgs_generate_messages_py" />
+      <config projectName="Project" targetName="tf_generate_messages_cpp" />
+      <config projectName="Project" targetName="roscpp_generate_messages_eus" />
+      <config projectName="Project" targetName="gmock" />
+      <config projectName="Project" targetName="doxygen" />
+      <config projectName="Project" targetName="tests" />
+      <config projectName="Project" targetName="std_msgs_generate_messages_eus" />
+      <config projectName="Project" targetName="_quadrotor_msgs_generate_messages_check_deps_Replan" />
+      <config projectName="Project" targetName="run_tests" />
+      <config projectName="Project" targetName="roscpp_generate_messages_cpp" />
+      <config projectName="Project" targetName="_quadrotor_msgs_generate_messages_check_deps_OutputData" />
+      <config projectName="Project" targetName="actionlib_msgs_generate_messages_nodejs" />
+      <config projectName="Project" targetName="_quadrotor_msgs_generate_messages_check_deps_Bspline" />
+      <config projectName="Project" targetName="tf2_msgs_generate_messages_lisp" />
+      <config projectName="Project" targetName="_quadrotor_msgs_generate_messages_check_deps_SwarmCommand" />
+      <config projectName="Project" targetName="sensor_msgs_generate_messages_lisp" />
+      <config projectName="Project" targetName="map_msgs_generate_messages_py" />
+      <config projectName="Project" targetName="_quadrotor_msgs_generate_messages_check_deps_Odometry" />
+      <config projectName="Project" targetName="map_msgs_generate_messages_nodejs" />
+      <config projectName="Project" targetName="tf_generate_messages_lisp" />
+      <config projectName="Project" targetName="_quadrotor_msgs_generate_messages_check_deps_SwarmOdometry" />
+      <config projectName="Project" targetName="nav_msgs_generate_messages_nodejs" />
       <config projectName="Project" targetName="roscpp_generate_messages_lisp" />
       <config projectName="Project" targetName="visualization_msgs_generate_messages_eus" />
       <config projectName="Project" targetName="visualization_msgs_generate_messages_lisp" />
       <config projectName="Project" targetName="geometry_msgs_generate_messages_eus" />
+      <config projectName="Project" targetName="quadrotor_msgs_generate_messages_cpp" />
       <config projectName="Project" targetName="tf_generate_messages_py" />
-      <config projectName="Project" targetName="visualization_msgs_generate_messages_py" />
-      <config projectName="Project" targetName="tf_generate_messages_nodejs" />
+      <config projectName="Project" targetName="quadrotor_msgs_generate_messages_lisp" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
@@ -84,7 +117,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ecfe4b15-8c99-4973-bdb2-4c05d978b366" name="Default Changelist" comment="" />
+    <list default="true" id="c13d2048-4402-406b-9c9a-24a2240561fa" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,7 +127,7 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
-  <component name="ProjectId" id="1bsnEvqXqEp7dEbzNV0xb2pf2lc" />
+  <component name="ProjectId" id="1cNnqbnjKFGW0oepJwohUxNvzUG" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -105,8 +138,113 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/CMakeLists.txt" />
   </component>
-  <component name="RunManager" selected="CMake Application.demo_node">
+  <component name="RunManager" selected="CMake Application.waypoint_generator">
     <configuration name="_catkin_empty_exported_target" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_catkin_empty_exported_target" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_quadrotor_msgs_generate_messages_check_deps_AuxCommand" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_quadrotor_msgs_generate_messages_check_deps_AuxCommand" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_quadrotor_msgs_generate_messages_check_deps_Bspline" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_quadrotor_msgs_generate_messages_check_deps_Bspline" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_quadrotor_msgs_generate_messages_check_deps_Corrections" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_quadrotor_msgs_generate_messages_check_deps_Corrections" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_quadrotor_msgs_generate_messages_check_deps_Gains" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_quadrotor_msgs_generate_messages_check_deps_Gains" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_quadrotor_msgs_generate_messages_check_deps_Odometry" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_quadrotor_msgs_generate_messages_check_deps_Odometry" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_quadrotor_msgs_generate_messages_check_deps_OptimalTimeAllocator" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_quadrotor_msgs_generate_messages_check_deps_OptimalTimeAllocator" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_quadrotor_msgs_generate_messages_check_deps_OutputData" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_quadrotor_msgs_generate_messages_check_deps_OutputData" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_quadrotor_msgs_generate_messages_check_deps_PPROutputData" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_quadrotor_msgs_generate_messages_check_deps_PPROutputData" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_quadrotor_msgs_generate_messages_check_deps_PolynomialTrajectory" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_quadrotor_msgs_generate_messages_check_deps_PolynomialTrajectory" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_quadrotor_msgs_generate_messages_check_deps_PositionCommand" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_quadrotor_msgs_generate_messages_check_deps_PositionCommand" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_quadrotor_msgs_generate_messages_check_deps_Replan" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_quadrotor_msgs_generate_messages_check_deps_Replan" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_quadrotor_msgs_generate_messages_check_deps_ReplanCheck" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_quadrotor_msgs_generate_messages_check_deps_ReplanCheck" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_quadrotor_msgs_generate_messages_check_deps_SO3Command" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_quadrotor_msgs_generate_messages_check_deps_SO3Command" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_quadrotor_msgs_generate_messages_check_deps_Serial" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_quadrotor_msgs_generate_messages_check_deps_Serial" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_quadrotor_msgs_generate_messages_check_deps_SpatialTemporalTrajectory" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_quadrotor_msgs_generate_messages_check_deps_SpatialTemporalTrajectory" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_quadrotor_msgs_generate_messages_check_deps_StatusData" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_quadrotor_msgs_generate_messages_check_deps_StatusData" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_quadrotor_msgs_generate_messages_check_deps_SwarmCommand" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_quadrotor_msgs_generate_messages_check_deps_SwarmCommand" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_quadrotor_msgs_generate_messages_check_deps_SwarmInfo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_quadrotor_msgs_generate_messages_check_deps_SwarmInfo" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_quadrotor_msgs_generate_messages_check_deps_SwarmOdometry" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_quadrotor_msgs_generate_messages_check_deps_SwarmOdometry" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_quadrotor_msgs_generate_messages_check_deps_TRPYCommand" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_quadrotor_msgs_generate_messages_check_deps_TRPYCommand" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_quadrotor_msgs_generate_messages_check_deps_TrajectoryMatrix" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_quadrotor_msgs_generate_messages_check_deps_TrajectoryMatrix" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -166,7 +304,7 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo_node" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="demo_node" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="demo_node">
+    <configuration name="decode_msgs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="decode_msgs" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -177,6 +315,11 @@
       </method>
     </configuration>
     <configuration name="doxygen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="doxygen" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="encode_msgs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="encode_msgs" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -276,7 +419,57 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="random_complex" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="random_complex" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="random_complex">
+    <configuration name="quadrotor_msgs_gencpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="quadrotor_msgs_gencpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="quadrotor_msgs_generate_messages" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="quadrotor_msgs_generate_messages" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="quadrotor_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="quadrotor_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="quadrotor_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="quadrotor_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="quadrotor_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="quadrotor_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="quadrotor_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="quadrotor_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="quadrotor_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="quadrotor_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="quadrotor_msgs_geneus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="quadrotor_msgs_geneus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="quadrotor_msgs_genlisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="quadrotor_msgs_genlisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="quadrotor_msgs_gennodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="quadrotor_msgs_gennodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="quadrotor_msgs_genpy" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="quadrotor_msgs_genpy" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -446,6 +639,11 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="trajectory_generator_node" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="trajectory_generator_node" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="trajectory_generator_node">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="visualization_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="visualization_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -477,41 +675,60 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="CMake Application._catkin_empty_exported_target" />
-      <item itemvalue="CMake Application.actionlib_generate_messages_cpp" />
-      <item itemvalue="CMake Application.actionlib_generate_messages_eus" />
-      <item itemvalue="CMake Application.actionlib_generate_messages_lisp" />
-      <item itemvalue="CMake Application.actionlib_generate_messages_nodejs" />
-      <item itemvalue="CMake Application.actionlib_generate_messages_py" />
+      <item itemvalue="CMake Application.clean_test_results" />
+      <item itemvalue="CMake Application.download_extra_data" />
+      <item itemvalue="CMake Application.doxygen" />
+      <item itemvalue="CMake Application.run_tests" />
+      <item itemvalue="CMake Application.tests" />
+      <item itemvalue="CMake Application._quadrotor_msgs_generate_messages_check_deps_AuxCommand" />
+      <item itemvalue="CMake Application._quadrotor_msgs_generate_messages_check_deps_Bspline" />
+      <item itemvalue="CMake Application._quadrotor_msgs_generate_messages_check_deps_Corrections" />
+      <item itemvalue="CMake Application._quadrotor_msgs_generate_messages_check_deps_Gains" />
+      <item itemvalue="CMake Application._quadrotor_msgs_generate_messages_check_deps_Odometry" />
+      <item itemvalue="CMake Application._quadrotor_msgs_generate_messages_check_deps_OptimalTimeAllocator" />
+      <item itemvalue="CMake Application._quadrotor_msgs_generate_messages_check_deps_OutputData" />
+      <item itemvalue="CMake Application._quadrotor_msgs_generate_messages_check_deps_PolynomialTrajectory" />
+      <item itemvalue="CMake Application._quadrotor_msgs_generate_messages_check_deps_PositionCommand" />
+      <item itemvalue="CMake Application._quadrotor_msgs_generate_messages_check_deps_PPROutputData" />
+      <item itemvalue="CMake Application._quadrotor_msgs_generate_messages_check_deps_Replan" />
+      <item itemvalue="CMake Application._quadrotor_msgs_generate_messages_check_deps_ReplanCheck" />
+      <item itemvalue="CMake Application._quadrotor_msgs_generate_messages_check_deps_Serial" />
+      <item itemvalue="CMake Application._quadrotor_msgs_generate_messages_check_deps_SO3Command" />
+      <item itemvalue="CMake Application._quadrotor_msgs_generate_messages_check_deps_SpatialTemporalTrajectory" />
+      <item itemvalue="CMake Application._quadrotor_msgs_generate_messages_check_deps_StatusData" />
+      <item itemvalue="CMake Application._quadrotor_msgs_generate_messages_check_deps_SwarmCommand" />
+      <item itemvalue="CMake Application._quadrotor_msgs_generate_messages_check_deps_SwarmInfo" />
+      <item itemvalue="CMake Application._quadrotor_msgs_generate_messages_check_deps_SwarmOdometry" />
+      <item itemvalue="CMake Application._quadrotor_msgs_generate_messages_check_deps_TrajectoryMatrix" />
+      <item itemvalue="CMake Application._quadrotor_msgs_generate_messages_check_deps_TRPYCommand" />
       <item itemvalue="CMake Application.actionlib_msgs_generate_messages_cpp" />
       <item itemvalue="CMake Application.actionlib_msgs_generate_messages_eus" />
       <item itemvalue="CMake Application.actionlib_msgs_generate_messages_lisp" />
       <item itemvalue="CMake Application.actionlib_msgs_generate_messages_nodejs" />
       <item itemvalue="CMake Application.actionlib_msgs_generate_messages_py" />
-      <item itemvalue="CMake Application.clean_test_results" />
-      <item itemvalue="CMake Application.demo_node" />
-      <item itemvalue="CMake Application.download_extra_data" />
-      <item itemvalue="CMake Application.doxygen" />
+      <item itemvalue="CMake Application.decode_msgs" />
+      <item itemvalue="CMake Application.encode_msgs" />
       <item itemvalue="CMake Application.geometry_msgs_generate_messages_cpp" />
       <item itemvalue="CMake Application.geometry_msgs_generate_messages_eus" />
       <item itemvalue="CMake Application.geometry_msgs_generate_messages_lisp" />
       <item itemvalue="CMake Application.geometry_msgs_generate_messages_nodejs" />
       <item itemvalue="CMake Application.geometry_msgs_generate_messages_py" />
-      <item itemvalue="CMake Application.gmock" />
-      <item itemvalue="CMake Application.gmock_main" />
-      <item itemvalue="CMake Application.gtest" />
-      <item itemvalue="CMake Application.gtest_main" />
-      <item itemvalue="CMake Application.map_msgs_generate_messages_cpp" />
-      <item itemvalue="CMake Application.map_msgs_generate_messages_eus" />
-      <item itemvalue="CMake Application.map_msgs_generate_messages_lisp" />
-      <item itemvalue="CMake Application.map_msgs_generate_messages_nodejs" />
-      <item itemvalue="CMake Application.map_msgs_generate_messages_py" />
       <item itemvalue="CMake Application.nav_msgs_generate_messages_cpp" />
       <item itemvalue="CMake Application.nav_msgs_generate_messages_eus" />
       <item itemvalue="CMake Application.nav_msgs_generate_messages_lisp" />
       <item itemvalue="CMake Application.nav_msgs_generate_messages_nodejs" />
       <item itemvalue="CMake Application.nav_msgs_generate_messages_py" />
-      <item itemvalue="CMake Application.random_complex" />
+      <item itemvalue="CMake Application.quadrotor_msgs_gencpp" />
+      <item itemvalue="CMake Application.quadrotor_msgs_generate_messages" />
+      <item itemvalue="CMake Application.quadrotor_msgs_generate_messages_cpp" />
+      <item itemvalue="CMake Application.quadrotor_msgs_generate_messages_eus" />
+      <item itemvalue="CMake Application.quadrotor_msgs_generate_messages_lisp" />
+      <item itemvalue="CMake Application.quadrotor_msgs_generate_messages_nodejs" />
+      <item itemvalue="CMake Application.quadrotor_msgs_generate_messages_py" />
+      <item itemvalue="CMake Application.quadrotor_msgs_geneus" />
+      <item itemvalue="CMake Application.quadrotor_msgs_genlisp" />
+      <item itemvalue="CMake Application.quadrotor_msgs_gennodejs" />
+      <item itemvalue="CMake Application.quadrotor_msgs_genpy" />
       <item itemvalue="CMake Application.roscpp_generate_messages_cpp" />
       <item itemvalue="CMake Application.roscpp_generate_messages_eus" />
       <item itemvalue="CMake Application.roscpp_generate_messages_lisp" />
@@ -522,19 +739,28 @@
       <item itemvalue="CMake Application.rosgraph_msgs_generate_messages_lisp" />
       <item itemvalue="CMake Application.rosgraph_msgs_generate_messages_nodejs" />
       <item itemvalue="CMake Application.rosgraph_msgs_generate_messages_py" />
-      <item itemvalue="CMake Application.run_tests" />
+      <item itemvalue="CMake Application.std_msgs_generate_messages_cpp" />
+      <item itemvalue="CMake Application.std_msgs_generate_messages_eus" />
+      <item itemvalue="CMake Application.std_msgs_generate_messages_lisp" />
+      <item itemvalue="CMake Application.std_msgs_generate_messages_nodejs" />
+      <item itemvalue="CMake Application.std_msgs_generate_messages_py" />
+      <item itemvalue="CMake Application._catkin_empty_exported_target" />
+      <item itemvalue="CMake Application.actionlib_generate_messages_cpp" />
+      <item itemvalue="CMake Application.actionlib_generate_messages_eus" />
+      <item itemvalue="CMake Application.actionlib_generate_messages_lisp" />
+      <item itemvalue="CMake Application.actionlib_generate_messages_nodejs" />
+      <item itemvalue="CMake Application.actionlib_generate_messages_py" />
+      <item itemvalue="CMake Application.map_msgs_generate_messages_cpp" />
+      <item itemvalue="CMake Application.map_msgs_generate_messages_eus" />
+      <item itemvalue="CMake Application.map_msgs_generate_messages_lisp" />
+      <item itemvalue="CMake Application.map_msgs_generate_messages_nodejs" />
+      <item itemvalue="CMake Application.map_msgs_generate_messages_py" />
       <item itemvalue="CMake Application.rviz_plugins" />
       <item itemvalue="CMake Application.sensor_msgs_generate_messages_cpp" />
       <item itemvalue="CMake Application.sensor_msgs_generate_messages_eus" />
       <item itemvalue="CMake Application.sensor_msgs_generate_messages_lisp" />
       <item itemvalue="CMake Application.sensor_msgs_generate_messages_nodejs" />
       <item itemvalue="CMake Application.sensor_msgs_generate_messages_py" />
-      <item itemvalue="CMake Application.std_msgs_generate_messages_cpp" />
-      <item itemvalue="CMake Application.std_msgs_generate_messages_eus" />
-      <item itemvalue="CMake Application.std_msgs_generate_messages_lisp" />
-      <item itemvalue="CMake Application.std_msgs_generate_messages_nodejs" />
-      <item itemvalue="CMake Application.std_msgs_generate_messages_py" />
-      <item itemvalue="CMake Application.tests" />
       <item itemvalue="CMake Application.tf2_msgs_generate_messages_cpp" />
       <item itemvalue="CMake Application.tf2_msgs_generate_messages_eus" />
       <item itemvalue="CMake Application.tf2_msgs_generate_messages_lisp" />
@@ -551,6 +777,11 @@
       <item itemvalue="CMake Application.visualization_msgs_generate_messages_nodejs" />
       <item itemvalue="CMake Application.visualization_msgs_generate_messages_py" />
       <item itemvalue="CMake Application.waypoint_generator" />
+      <item itemvalue="CMake Application.trajectory_generator_node" />
+      <item itemvalue="CMake Application.gmock" />
+      <item itemvalue="CMake Application.gmock_main" />
+      <item itemvalue="CMake Application.gtest" />
+      <item itemvalue="CMake Application.gtest_main" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -558,53 +789,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ecfe4b15-8c99-4973-bdb2-4c05d978b366" name="Default Changelist" comment="" />
-      <created>1589429560553</created>
+      <changelist id="c13d2048-4402-406b-9c9a-24a2240561fa" name="Default Changelist" comment="" />
+      <created>1590378109398</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1589429560553</updated>
-      <workItem from="1589429567880" duration="44000" />
-      <workItem from="1589429650577" duration="880000" />
-      <workItem from="1589628378865" duration="14226000" />
-      <workItem from="1589809840772" duration="6306000" />
+      <updated>1590378109398</updated>
+      <workItem from="1590378110860" duration="288000" />
+      <workItem from="1590378445845" duration="919000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="1055" y="215" key="#Updates" timestamp="1589429931371">
-      <screen x="65" y="24" width="1855" height="1056" />
-    </state>
-    <state x="1055" y="215" key="#Updates/65.24.1855.1056@65.24.1855.1056" timestamp="1589429931371" />
-    <state x="1144" y="286" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1589429569428">
-      <screen x="65" y="24" width="1855" height="1056" />
-    </state>
-    <state x="1144" y="286" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1589429569428" />
-    <state x="1149" y="310" key="FileChooserDialogImpl" timestamp="1589628817976">
-      <screen x="65" y="24" width="1855" height="1056" />
-    </state>
-    <state x="1149" y="310" key="FileChooserDialogImpl/65.24.1855.1056@65.24.1855.1056" timestamp="1589628817976" />
-    <state width="1803" height="285" key="GridCell.Tab.0.bottom" timestamp="1589817050300">
-      <screen x="65" y="24" width="1855" height="1056" />
-    </state>
-    <state width="1803" height="285" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1589817050300" />
-    <state width="1803" height="285" key="GridCell.Tab.0.center" timestamp="1589817050300">
-      <screen x="65" y="24" width="1855" height="1056" />
-    </state>
-    <state width="1803" height="285" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1589817050300" />
-    <state width="1803" height="285" key="GridCell.Tab.0.left" timestamp="1589817050299">
-      <screen x="65" y="24" width="1855" height="1056" />
-    </state>
-    <state width="1803" height="285" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1589817050299" />
-    <state width="1803" height="285" key="GridCell.Tab.0.right" timestamp="1589817050300">
-      <screen x="65" y="24" width="1855" height="1056" />
-    </state>
-    <state width="1803" height="285" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1589817050300" />
-    <state x="193" y="253" key="run.anything.popup" timestamp="1589641998464">
-      <screen x="65" y="24" width="1855" height="1056" />
-    </state>
-    <state x="193" y="253" key="run.anything.popup/65.24.1855.1056@65.24.1855.1056" timestamp="1589641998464" />
   </component>
 </project>
