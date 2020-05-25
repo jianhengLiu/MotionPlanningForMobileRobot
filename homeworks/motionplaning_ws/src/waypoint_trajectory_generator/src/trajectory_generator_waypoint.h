@@ -19,6 +19,7 @@ class TrajectoryGeneratorWaypoint {
             const Eigen::MatrixXd &Path,
             const Eigen::MatrixXd &Vel,
             const Eigen::MatrixXd &Acc,
+            const Eigen::MatrixXd &Jerk,
             const Eigen::VectorXd &Time);
         
         int Factorial(int x);
