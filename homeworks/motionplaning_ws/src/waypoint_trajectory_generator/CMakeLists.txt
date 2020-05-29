@@ -20,7 +20,7 @@ find_package(catkin REQUIRED COMPONENTS
   roscpp
   tf
   nav_msgs
-  quadrotor_msgs
+#  quadrotor_msgs
 )
 catkin_package()
 

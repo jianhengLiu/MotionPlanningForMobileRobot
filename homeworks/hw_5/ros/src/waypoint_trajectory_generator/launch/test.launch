@@ -5,7 +5,7 @@
       <remap from="~waypoints" to="/waypoint_generator/waypoints"/>
       <remap from="~odom"      to="/msckf_vio/odometry"/>
       <remap from="~joy"      to="/djiros/rc"/>
-      
+
       <param name="planning/vel"       value="4.0"  />
       <param name="planning/acc"       value="3.0"  />
       <param name="planning/dev_order" value="4"    />

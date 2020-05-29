@@ -11,7 +11,7 @@
 #include <geometry_msgs/Point.h>
 #include <visualization_msgs/MarkerArray.h>
 #include <visualization_msgs/Marker.h>
-#include <quadrotor_msgs/PolynomialTrajectory.h>
+//#include <quadrotor_msgs/PolynomialTrajectory.h>
 #include <sensor_msgs/Joy.h>
 #include <algorithm>
 
@@ -95,7 +95,7 @@ void trajGeneration(Eigen::MatrixXd path)
     visWayPointPath(path);
 
     //After you finish your homework, you can use the function visWayPointTraj below to visulize your trajectory
-    visWayPointTraj( _polyCoeff, _polyTime);
+    visWayPointTraj(_polyCoeff, _polyTime);
 }
 
 int main(int argc, char **argv)
@@ -105,7 +105,7 @@ int main(int argc, char **argv)
 
     nh.param("planning/vel", _Vel, 1.0);
     nh.param("planning/acc", _Acc, 1.0);
-    nh.param("planning/dev_order", _dev_order, 3);
+    nh.param("planning/dev_order", _dev_order, 4);
     nh.param("planning/min_order", _min_order, 3);
     nh.param("vis/vis_traj_width", _vis_traj_width, 0.15);
 
@@ -121,7 +121,8 @@ int main(int argc, char **argv)
     _startVel(1) = 0;
     _startVel(2) = 0;
 
-    _way_pts_sub = nh.subscribe("waypoints", 1, rcvWaypointsCallBack);
+    _way_pts_sub = nh.subscribe("waypoints", 1,
+                                rcvWaypointsCallBack);//("/waypoint_generator/waypoints", 1, rcvWaypointsCallBack);
 
     _wp_traj_vis_pub = nh.advertise<visualization_msgs::Marker>("vis_trajectory", 1);
     _wp_path_vis_pub = nh.advertise<visualization_msgs::Marker>("vis_waypoint_path", 1);
@@ -325,7 +326,8 @@ VectorXd timeAllocation(MatrixXd Path)
         time_z = timeAllocation_1D(delta_z);
 
         time(i) = fmax(time_x, fmax(time_y, time_z));
+//        time(i) = 2;
     }
-
+    cout << "time:" << endl << time << endl;
     return time;
 }
