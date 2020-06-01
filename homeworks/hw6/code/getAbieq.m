@@ -1,6 +1,7 @@
 function [Aieq, bieq] = getAbieq(n_seg, n_order, corridor_range, ts)
 n_all_poly = n_seg*(n_order+1);
 d_order = 4;
+2*n_seg*d_order*(n_order+1-(d_order-1)/2)
 Aieq = zeros(2*n_seg*d_order*(n_order+1-(d_order-1)/2),n_all_poly);
 bieq = zeros(2*n_seg*d_order*(n_order+1-(d_order-1)/2),1);
 %#####################################################
