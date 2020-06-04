@@ -2,66 +2,66 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="waypoint_trajectory_generator" targetName="geometry_msgs_generate_messages_lisp" />
-      <config projectName="waypoint_trajectory_generator" targetName="roscpp_generate_messages_eus" />
-      <config projectName="waypoint_trajectory_generator" targetName="actionlib_msgs_generate_messages_nodejs" />
-      <config projectName="waypoint_trajectory_generator" targetName="gtest_main" />
-      <config projectName="waypoint_trajectory_generator" targetName="tf_generate_messages_eus" />
-      <config projectName="waypoint_trajectory_generator" targetName="roscpp_generate_messages_nodejs" />
-      <config projectName="waypoint_trajectory_generator" targetName="run_tests" />
-      <config projectName="waypoint_trajectory_generator" targetName="rosgraph_msgs_generate_messages_eus" />
-      <config projectName="waypoint_trajectory_generator" targetName="rosgraph_msgs_generate_messages_py" />
-      <config projectName="waypoint_trajectory_generator" targetName="rosgraph_msgs_generate_messages_lisp" />
-      <config projectName="waypoint_trajectory_generator" targetName="actionlib_generate_messages_eus" />
-      <config projectName="waypoint_trajectory_generator" targetName="download_extra_data" />
-      <config projectName="waypoint_trajectory_generator" targetName="sensor_msgs_generate_messages_lisp" />
-      <config projectName="waypoint_trajectory_generator" targetName="std_msgs_generate_messages_py" />
-      <config projectName="waypoint_trajectory_generator" targetName="roscpp_generate_messages_py" />
-      <config projectName="waypoint_trajectory_generator" targetName="tf2_msgs_generate_messages_cpp" />
-      <config projectName="waypoint_trajectory_generator" targetName="nav_msgs_generate_messages_eus" />
-      <config projectName="waypoint_trajectory_generator" targetName="std_msgs_generate_messages_eus" />
-      <config projectName="waypoint_trajectory_generator" targetName="geometry_msgs_generate_messages_py" />
-      <config projectName="waypoint_trajectory_generator" targetName="roscpp_generate_messages_cpp" />
-      <config projectName="waypoint_trajectory_generator" targetName="geometry_msgs_generate_messages_cpp" />
-      <config projectName="waypoint_trajectory_generator" targetName="tf_generate_messages_cpp" />
-      <config projectName="waypoint_trajectory_generator" targetName="geometry_msgs_generate_messages_eus" />
       <config projectName="waypoint_trajectory_generator" targetName="tf2_msgs_generate_messages_py" />
-      <config projectName="waypoint_trajectory_generator" targetName="nav_msgs_generate_messages_nodejs" />
-      <config projectName="waypoint_trajectory_generator" targetName="actionlib_generate_messages_lisp" />
-      <config projectName="waypoint_trajectory_generator" targetName="rosgraph_msgs_generate_messages_nodejs" />
-      <config projectName="waypoint_trajectory_generator" targetName="rosgraph_msgs_generate_messages_cpp" />
-      <config projectName="waypoint_trajectory_generator" targetName="nav_msgs_generate_messages_lisp" />
-      <config projectName="waypoint_trajectory_generator" targetName="gmock" />
-      <config projectName="waypoint_trajectory_generator" targetName="sensor_msgs_generate_messages_eus" />
-      <config projectName="waypoint_trajectory_generator" targetName="gmock_main" />
-      <config projectName="waypoint_trajectory_generator" targetName="tf_generate_messages_nodejs" />
-      <config projectName="waypoint_trajectory_generator" targetName="std_msgs_generate_messages_lisp" />
-      <config projectName="waypoint_trajectory_generator" targetName="nav_msgs_generate_messages_py" />
-      <config projectName="waypoint_trajectory_generator" targetName="sensor_msgs_generate_messages_cpp" />
-      <config projectName="waypoint_trajectory_generator" targetName="trajectory_generator_node" />
-      <config projectName="waypoint_trajectory_generator" targetName="actionlib_generate_messages_py" />
-      <config projectName="waypoint_trajectory_generator" targetName="actionlib_msgs_generate_messages_lisp" />
-      <config projectName="waypoint_trajectory_generator" targetName="nav_msgs_generate_messages_cpp" />
-      <config projectName="waypoint_trajectory_generator" targetName="gtest" />
-      <config projectName="waypoint_trajectory_generator" targetName="std_msgs_generate_messages_cpp" />
-      <config projectName="waypoint_trajectory_generator" targetName="actionlib_msgs_generate_messages_eus" />
-      <config projectName="waypoint_trajectory_generator" targetName="tf_generate_messages_lisp" />
-      <config projectName="waypoint_trajectory_generator" targetName="tf_generate_messages_py" />
-      <config projectName="waypoint_trajectory_generator" targetName="actionlib_generate_messages_cpp" />
-      <config projectName="waypoint_trajectory_generator" targetName="std_msgs_generate_messages_nodejs" />
-      <config projectName="waypoint_trajectory_generator" targetName="clean_test_results" />
-      <config projectName="waypoint_trajectory_generator" targetName="sensor_msgs_generate_messages_nodejs" />
-      <config projectName="waypoint_trajectory_generator" targetName="actionlib_generate_messages_nodejs" />
-      <config projectName="waypoint_trajectory_generator" targetName="tf2_msgs_generate_messages_lisp" />
-      <config projectName="waypoint_trajectory_generator" targetName="roscpp_generate_messages_lisp" />
-      <config projectName="waypoint_trajectory_generator" targetName="sensor_msgs_generate_messages_py" />
-      <config projectName="waypoint_trajectory_generator" targetName="tf2_msgs_generate_messages_nodejs" />
       <config projectName="waypoint_trajectory_generator" targetName="doxygen" />
-      <config projectName="waypoint_trajectory_generator" targetName="tests" />
-      <config projectName="waypoint_trajectory_generator" targetName="actionlib_msgs_generate_messages_cpp" />
-      <config projectName="waypoint_trajectory_generator" targetName="tf2_msgs_generate_messages_eus" />
+      <config projectName="waypoint_trajectory_generator" targetName="rosgraph_msgs_generate_messages_eus" />
+      <config projectName="waypoint_trajectory_generator" targetName="roscpp_generate_messages_nodejs" />
+      <config projectName="waypoint_trajectory_generator" targetName="std_msgs_generate_messages_py" />
       <config projectName="waypoint_trajectory_generator" targetName="actionlib_msgs_generate_messages_py" />
+      <config projectName="waypoint_trajectory_generator" targetName="actionlib_generate_messages_py" />
+      <config projectName="waypoint_trajectory_generator" targetName="download_extra_data" />
+      <config projectName="waypoint_trajectory_generator" targetName="actionlib_msgs_generate_messages_nodejs" />
+      <config projectName="waypoint_trajectory_generator" targetName="sensor_msgs_generate_messages_eus" />
+      <config projectName="waypoint_trajectory_generator" targetName="nav_msgs_generate_messages_eus" />
+      <config projectName="waypoint_trajectory_generator" targetName="sensor_msgs_generate_messages_lisp" />
+      <config projectName="waypoint_trajectory_generator" targetName="rosgraph_msgs_generate_messages_nodejs" />
+      <config projectName="waypoint_trajectory_generator" targetName="nav_msgs_generate_messages_lisp" />
+      <config projectName="waypoint_trajectory_generator" targetName="actionlib_msgs_generate_messages_lisp" />
+      <config projectName="waypoint_trajectory_generator" targetName="tf_generate_messages_eus" />
+      <config projectName="waypoint_trajectory_generator" targetName="run_tests" />
+      <config projectName="waypoint_trajectory_generator" targetName="tf2_msgs_generate_messages_lisp" />
+      <config projectName="waypoint_trajectory_generator" targetName="nav_msgs_generate_messages_py" />
+      <config projectName="waypoint_trajectory_generator" targetName="roscpp_generate_messages_py" />
+      <config projectName="waypoint_trajectory_generator" targetName="tf2_msgs_generate_messages_eus" />
+      <config projectName="waypoint_trajectory_generator" targetName="rosgraph_msgs_generate_messages_py" />
+      <config projectName="waypoint_trajectory_generator" targetName="std_msgs_generate_messages_eus" />
+      <config projectName="waypoint_trajectory_generator" targetName="actionlib_generate_messages_nodejs" />
+      <config projectName="waypoint_trajectory_generator" targetName="gtest" />
+      <config projectName="waypoint_trajectory_generator" targetName="clean_test_results" />
+      <config projectName="waypoint_trajectory_generator" targetName="roscpp_generate_messages_lisp" />
+      <config projectName="waypoint_trajectory_generator" targetName="geometry_msgs_generate_messages_cpp" />
+      <config projectName="waypoint_trajectory_generator" targetName="gmock" />
+      <config projectName="waypoint_trajectory_generator" targetName="tf_generate_messages_lisp" />
+      <config projectName="waypoint_trajectory_generator" targetName="actionlib_generate_messages_eus" />
+      <config projectName="waypoint_trajectory_generator" targetName="tf_generate_messages_cpp" />
+      <config projectName="waypoint_trajectory_generator" targetName="sensor_msgs_generate_messages_py" />
+      <config projectName="waypoint_trajectory_generator" targetName="std_msgs_generate_messages_nodejs" />
+      <config projectName="waypoint_trajectory_generator" targetName="tf2_msgs_generate_messages_nodejs" />
+      <config projectName="waypoint_trajectory_generator" targetName="trajectory_generator_node" />
+      <config projectName="waypoint_trajectory_generator" targetName="tf2_msgs_generate_messages_cpp" />
+      <config projectName="waypoint_trajectory_generator" targetName="gtest_main" />
+      <config projectName="waypoint_trajectory_generator" targetName="tests" />
+      <config projectName="waypoint_trajectory_generator" targetName="std_msgs_generate_messages_cpp" />
+      <config projectName="waypoint_trajectory_generator" targetName="nav_msgs_generate_messages_nodejs" />
+      <config projectName="waypoint_trajectory_generator" targetName="roscpp_generate_messages_eus" />
+      <config projectName="waypoint_trajectory_generator" targetName="actionlib_msgs_generate_messages_eus" />
+      <config projectName="waypoint_trajectory_generator" targetName="geometry_msgs_generate_messages_lisp" />
+      <config projectName="waypoint_trajectory_generator" targetName="tf_generate_messages_py" />
+      <config projectName="waypoint_trajectory_generator" targetName="std_msgs_generate_messages_lisp" />
+      <config projectName="waypoint_trajectory_generator" targetName="geometry_msgs_generate_messages_py" />
       <config projectName="waypoint_trajectory_generator" targetName="geometry_msgs_generate_messages_nodejs" />
+      <config projectName="waypoint_trajectory_generator" targetName="actionlib_generate_messages_lisp" />
+      <config projectName="waypoint_trajectory_generator" targetName="geometry_msgs_generate_messages_eus" />
+      <config projectName="waypoint_trajectory_generator" targetName="rosgraph_msgs_generate_messages_lisp" />
+      <config projectName="waypoint_trajectory_generator" targetName="rosgraph_msgs_generate_messages_cpp" />
+      <config projectName="waypoint_trajectory_generator" targetName="tf_generate_messages_nodejs" />
+      <config projectName="waypoint_trajectory_generator" targetName="actionlib_generate_messages_cpp" />
+      <config projectName="waypoint_trajectory_generator" targetName="gmock_main" />
+      <config projectName="waypoint_trajectory_generator" targetName="sensor_msgs_generate_messages_nodejs" />
+      <config projectName="waypoint_trajectory_generator" targetName="sensor_msgs_generate_messages_cpp" />
+      <config projectName="waypoint_trajectory_generator" targetName="roscpp_generate_messages_cpp" />
+      <config projectName="waypoint_trajectory_generator" targetName="actionlib_msgs_generate_messages_cpp" />
+      <config projectName="waypoint_trajectory_generator" targetName="nav_msgs_generate_messages_cpp" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
@@ -89,306 +89,306 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/CMakeLists.txt" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Robocon20/simulation/sim_ws/src/CMakeLists.txt" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RunManager" selected="CMake Application.trajectory_generator_node">
-    <configuration name="actionlib_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="actionlib_generate_messages_cpp" CONFIG_NAME="Debug">
+    <configuration name="actionlib_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="actionlib_generate_messages_cpp" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="actionlib_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="actionlib_generate_messages_eus" CONFIG_NAME="Debug">
+    <configuration name="actionlib_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="actionlib_generate_messages_eus" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="actionlib_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="actionlib_generate_messages_lisp" CONFIG_NAME="Debug">
+    <configuration name="actionlib_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="actionlib_generate_messages_lisp" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="actionlib_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="actionlib_generate_messages_nodejs" CONFIG_NAME="Debug">
+    <configuration name="actionlib_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="actionlib_generate_messages_nodejs" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="actionlib_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="actionlib_generate_messages_py" CONFIG_NAME="Debug">
+    <configuration name="actionlib_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="actionlib_generate_messages_py" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="actionlib_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="actionlib_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+    <configuration name="actionlib_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="actionlib_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="actionlib_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="actionlib_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+    <configuration name="actionlib_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="actionlib_msgs_generate_messages_eus" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="actionlib_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="actionlib_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+    <configuration name="actionlib_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="actionlib_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="actionlib_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="actionlib_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+    <configuration name="actionlib_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="actionlib_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="actionlib_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="actionlib_msgs_generate_messages_py" CONFIG_NAME="Debug">
+    <configuration name="actionlib_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="actionlib_msgs_generate_messages_py" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="clean_test_results" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="clean_test_results" CONFIG_NAME="Debug">
+    <configuration name="clean_test_results" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="clean_test_results" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="download_extra_data" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="download_extra_data" CONFIG_NAME="Debug">
+    <configuration name="download_extra_data" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="download_extra_data" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="doxygen" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="doxygen" CONFIG_NAME="Debug">
+    <configuration name="doxygen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="doxygen" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="geometry_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="geometry_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+    <configuration name="geometry_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="geometry_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="geometry_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="geometry_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+    <configuration name="geometry_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="geometry_msgs_generate_messages_eus" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="geometry_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="geometry_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+    <configuration name="geometry_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="geometry_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="geometry_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="geometry_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+    <configuration name="geometry_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="geometry_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="geometry_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="geometry_msgs_generate_messages_py" CONFIG_NAME="Debug">
+    <configuration name="geometry_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="geometry_msgs_generate_messages_py" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gmock" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="gmock" CONFIG_NAME="Debug">
+    <configuration name="gmock" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="gmock" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gmock_main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="gmock_main" CONFIG_NAME="Debug">
+    <configuration name="gmock_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="gmock_main" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="gtest" CONFIG_NAME="Debug">
+    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="gtest" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="gtest_main" CONFIG_NAME="Debug">
+    <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="gtest_main" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="nav_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="nav_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+    <configuration name="nav_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="nav_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="nav_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="nav_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+    <configuration name="nav_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="nav_msgs_generate_messages_eus" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="nav_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="nav_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+    <configuration name="nav_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="nav_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="nav_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="nav_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+    <configuration name="nav_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="nav_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="nav_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="nav_msgs_generate_messages_py" CONFIG_NAME="Debug">
+    <configuration name="nav_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="nav_msgs_generate_messages_py" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="roscpp_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="roscpp_generate_messages_cpp" CONFIG_NAME="Debug">
+    <configuration name="roscpp_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="roscpp_generate_messages_cpp" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="roscpp_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="roscpp_generate_messages_eus" CONFIG_NAME="Debug">
+    <configuration name="roscpp_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="roscpp_generate_messages_eus" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="roscpp_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="roscpp_generate_messages_lisp" CONFIG_NAME="Debug">
+    <configuration name="roscpp_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="roscpp_generate_messages_lisp" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="roscpp_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="roscpp_generate_messages_nodejs" CONFIG_NAME="Debug">
+    <configuration name="roscpp_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="roscpp_generate_messages_nodejs" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="roscpp_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="roscpp_generate_messages_py" CONFIG_NAME="Debug">
+    <configuration name="roscpp_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="roscpp_generate_messages_py" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="rosgraph_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="rosgraph_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+    <configuration name="rosgraph_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="rosgraph_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="rosgraph_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="rosgraph_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+    <configuration name="rosgraph_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="rosgraph_msgs_generate_messages_eus" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="rosgraph_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="rosgraph_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+    <configuration name="rosgraph_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="rosgraph_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="rosgraph_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="rosgraph_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+    <configuration name="rosgraph_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="rosgraph_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="rosgraph_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="rosgraph_msgs_generate_messages_py" CONFIG_NAME="Debug">
+    <configuration name="rosgraph_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="rosgraph_msgs_generate_messages_py" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="run_tests" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="run_tests" CONFIG_NAME="Debug">
+    <configuration name="run_tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="run_tests" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sensor_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="sensor_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+    <configuration name="sensor_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="sensor_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sensor_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="sensor_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+    <configuration name="sensor_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="sensor_msgs_generate_messages_eus" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sensor_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="sensor_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+    <configuration name="sensor_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="sensor_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sensor_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="sensor_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+    <configuration name="sensor_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="sensor_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sensor_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="sensor_msgs_generate_messages_py" CONFIG_NAME="Debug">
+    <configuration name="sensor_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="sensor_msgs_generate_messages_py" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="std_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="std_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+    <configuration name="std_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="std_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="std_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="std_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+    <configuration name="std_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="std_msgs_generate_messages_eus" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="std_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="std_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+    <configuration name="std_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="std_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="std_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="std_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+    <configuration name="std_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="std_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="std_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="std_msgs_generate_messages_py" CONFIG_NAME="Debug">
+    <configuration name="std_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="std_msgs_generate_messages_py" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tests" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="tests" CONFIG_NAME="Debug">
+    <configuration name="tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="tests" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tf2_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="tf2_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+    <configuration name="tf2_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="tf2_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tf2_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="tf2_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+    <configuration name="tf2_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="tf2_msgs_generate_messages_eus" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tf2_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="tf2_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+    <configuration name="tf2_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="tf2_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tf2_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="tf2_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+    <configuration name="tf2_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="tf2_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tf2_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="tf2_msgs_generate_messages_py" CONFIG_NAME="Debug">
+    <configuration name="tf2_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="tf2_msgs_generate_messages_py" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tf_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="tf_generate_messages_cpp" CONFIG_NAME="Debug">
+    <configuration name="tf_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="tf_generate_messages_cpp" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tf_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="tf_generate_messages_eus" CONFIG_NAME="Debug">
+    <configuration name="tf_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="tf_generate_messages_eus" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tf_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="tf_generate_messages_lisp" CONFIG_NAME="Debug">
+    <configuration name="tf_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="tf_generate_messages_lisp" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tf_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="tf_generate_messages_nodejs" CONFIG_NAME="Debug">
+    <configuration name="tf_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="tf_generate_messages_nodejs" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tf_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="tf_generate_messages_py" CONFIG_NAME="Debug">
+    <configuration name="tf_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="tf_generate_messages_py" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="trajectory_generator_node" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="trajectory_generator_node" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="waypoint_trajectory_generator" RUN_TARGET_NAME="trajectory_generator_node">
+    <configuration name="trajectory_generator_node" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="waypoint_trajectory_generator" TARGET_NAME="trajectory_generator_node" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="waypoint_trajectory_generator" RUN_TARGET_NAME="trajectory_generator_node">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -412,6 +412,10 @@
       <item itemvalue="CMake Application.geometry_msgs_generate_messages_lisp" />
       <item itemvalue="CMake Application.geometry_msgs_generate_messages_nodejs" />
       <item itemvalue="CMake Application.geometry_msgs_generate_messages_py" />
+      <item itemvalue="CMake Application.gmock" />
+      <item itemvalue="CMake Application.gmock_main" />
+      <item itemvalue="CMake Application.gtest" />
+      <item itemvalue="CMake Application.gtest_main" />
       <item itemvalue="CMake Application.nav_msgs_generate_messages_cpp" />
       <item itemvalue="CMake Application.nav_msgs_generate_messages_eus" />
       <item itemvalue="CMake Application.nav_msgs_generate_messages_lisp" />
@@ -450,10 +454,6 @@
       <item itemvalue="CMake Application.tf_generate_messages_nodejs" />
       <item itemvalue="CMake Application.tf_generate_messages_py" />
       <item itemvalue="CMake Application.trajectory_generator_node" />
-      <item itemvalue="CMake Application.gmock" />
-      <item itemvalue="CMake Application.gmock_main" />
-      <item itemvalue="CMake Application.gtest" />
-      <item itemvalue="CMake Application.gtest_main" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -475,6 +475,9 @@
       <workItem from="1590402680246" duration="16329000" />
       <workItem from="1590676903361" duration="8444000" />
       <workItem from="1590761814611" duration="7663000" />
+      <workItem from="1590934522529" duration="600000" />
+      <workItem from="1591020508393" duration="210000" />
+      <workItem from="1591152330346" duration="24000" />
     </task>
     <servers />
   </component>
@@ -498,10 +501,10 @@
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
     <state x="755" y="277" key="#xdebugger.evaluate/65.24.1855.1056@65.24.1855.1056" timestamp="1590679167825" />
-    <state x="256" y="310" key="FileChooserDialogImpl" timestamp="1590402676128">
+    <state x="256" y="310" key="FileChooserDialogImpl" timestamp="1591020715115">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state x="256" y="310" key="FileChooserDialogImpl/65.24.1855.1056@65.24.1855.1056" timestamp="1590402676128" />
+    <state x="256" y="310" key="FileChooserDialogImpl/65.24.1855.1056@65.24.1855.1056" timestamp="1591020715115" />
     <state width="1803" height="401" key="GridCell.Tab.0.bottom" timestamp="1590769536309">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
